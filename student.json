@@ -1,22 +1,10 @@
 [
   {
-    "ID": "choi2010distributed",
-    "url": "https://ieeexplore.ieee.org/document/5502781"
+    "Student_ID": "220941",
+    "Grade": "A"
   },
   {
-    "ID": "choi2011dsa",
-    "url": "https://ieeexplore.ieee.org/document/5962781"
-  },
-  {
-    "ID": "choi2010adaptive",
-    "url": "https://ieeexplore.ieee.org/document/5661773"
-  },
-  {
-    "ID": "choi2011dcs",
-    "url": "https://ieeexplore.ieee.org/document/5887323"
-  },
-  {
-    "ID": "rana2018internet",
-    "url": "https://ieeexplore.ieee.org/abstract/document/8268084"
+    "Student_ID": "210548",
+    "Grade": "A++"
   }
 ]
